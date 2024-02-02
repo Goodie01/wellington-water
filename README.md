@@ -26,7 +26,7 @@ So I wrote a script to brute force try various combinations, download them, and 
 
 ![A graph showing a slow, but steady, decline, with a small bump in November of 2023](resources/img.png)
 
-With more data comes new conclusion. The numbers are once again moving away from 3000, this is as a frustrating reversal of a previous trend.
+With more data comes new conclusions. The numbers are once again moving upwards, this is as a frustrating reversal of a previous promising trend.
 
 ~~Overall it appears as though there is a slow, but steady, decline in the over all leak count over the last 3 months.~~
 
