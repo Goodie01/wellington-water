@@ -12,12 +12,13 @@ So I wrote a script to brute force try various combinations, download them, and 
 
 | Date       | Leak count |
 |------------|------------|
+| 31/01/2024 | 3369       |
 | 25/01/2024 | 3260       |
 | 17/01/2024 | 3102       |
 | 10/01/2024 | 3189       |
 | 30/11/2023 | 3414       |
-| 16/11/2023 | 2780       |
-| 27/10/2023 | 3275       |
+| 16/11/2023 | 2780       |[
+| 27/10/2023 | 3275       |]()
 | 20/10/2023 | 3807       |
 | 13/10/2023 | 3937       |
 
@@ -25,9 +26,11 @@ So I wrote a script to brute force try various combinations, download them, and 
 
 ![A graph showing a slow, but steady, decline, with a small bump in November of 2023](resources/img.png)
 
-Overall it appears as though there is a slow, but steady, decline in the over all leak count over the last 3 months.
+With more data comes new conclusion. The numbers are once again moving away from 3000, this is as a frustrating reversal of a previous trend.
 
-Wellington Water needs to keep this up for more than 3 months if they want to win any amount of trust.
+~~Overall it appears as though there is a slow, but steady, decline in the over all leak count over the last 3 months.~~
+
+~~Wellington Water needs to keep this up for more than 3 months if they want to win any amount of trust.~~
 
 ## Archiving the reports
 
