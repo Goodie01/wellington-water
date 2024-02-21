@@ -12,6 +12,8 @@ So I wrote a script to brute force try various combinations, download them, and 
 
 | Date       | Leak count |
 |------------|------------|
+| 21/02/2024 | 3478       |
+| 14/02/2024 | 3415       |
 | 07/02/2024 | 3377       |
 | 31/01/2024 | 3369       |
 | 25/01/2024 | 3260       |
