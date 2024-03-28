@@ -8,13 +8,14 @@ Sure they tell you how many leaks there are, and how many they are fixing. These
 
 ![A graph of Wellingtons water leaks over time](resources/img.png)
 
-For the last 5 months the number of leaks has stayed pretty consistently over 3000. Only momentarily dipping below 3000. This seems less than satisfactory.
+For the last 5 months the number of leaks has stayed pretty consistently over 3000. It does seem hat we are seeing a slow drop in leaks, is there hope at the end of the tunnel?
 
 
 ## Data presented here
 
 | Date       | Leak count |
 |------------|------------|
+| 27/03/2024 | 3039       |
 | 20/03/2024 | 3074       |
 | 13/03/2024 | 3320       |
 | 06/03/2024 | 3350       |
