@@ -15,6 +15,7 @@ For the last 5 months the number of leaks has stayed pretty consistently over 30
 
 | Date       | Leak count |
 |------------|------------|
+| 03/04/2024 | 2815       |
 | 27/03/2024 | 3039       |
 | 20/03/2024 | 3074       |
 | 13/03/2024 | 3320       |
